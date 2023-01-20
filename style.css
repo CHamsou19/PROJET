@@ -1,0 +1,25 @@
+
+
+#nav{
+    display: flex;
+    justify-content: space-between;
+    font-size: xx-large;
+
+
+
+
+    
+}
+body{
+    background-color: rosybrown;
+}
+#all-books{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10%;
+}
+#sect{
+    display: flex;
+    justify-content: flex-end;
+    
+}
